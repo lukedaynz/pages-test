@@ -1,0 +1,4 @@
+baseURL = 'https://site.daynz.net/'
+languageCode = 'en-us'
+title = 'My Hugo Site'
+theme = 'ananke'
